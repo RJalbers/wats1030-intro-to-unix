@@ -135,6 +135,10 @@ challenge_files/tmp/modi_laboriosam.txt
 
 
 * Use the `grep` command to search for text within a file. Use `grep` on all the `.user` files in `challenge_files` to find which files contain "WA" (the abbreviation for Washington state). *How many files did you find?*
+
+/Users/rjalbe/projects/wats1030-intro-to-unix/challenge_files/Britt-Erdman.user:O'Harachester, WA 37261
+/Users/rjalbe/projects/wats1030-intro-to-unix/challenge_files/Lissie-Strosin.user:Jewessfurt, WA 00816-7241
+
 * Use the `-r` option of `grep` to *recursively* find the text "Waldo" hidden in a file somewhere under the `challenge_files` directory. *Paste the result showing the file and line where the word "Waldo" shows up.*
 
 /Users/rjalbe/projects/wats1030-intro-to-unix/challenge_files/serial-numbers/eaque_molestiae.txt:Ut est maiores quia autem. Nisi modi Waldo sed corporis sit explicabo ut est. Et est placeat ea sunt sunt consectetur sunt incidunt. Explicabo vel esse blanditiis dolorem culpa non quia.
